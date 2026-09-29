@@ -1,0 +1,35 @@
+# Archivo de cita estándar (Citation File Format 1.2.0)
+# GitHub lo usa para mostrar el botón "Cite this repository".
+cff-version: 1.2.0
+message: "Si usas este material, por favor cítalo de la siguiente manera."
+title: "Construir un radián: actividad guiada para llegar intuitivamente a la definición de radián"
+abstract: >-
+  Actividad guiada en cinco pasos que construye la definición de radián de forma
+  intuitiva: primero se traza el radio de la circunferencia, después ese mismo radio se
+  acuesta sobre la curva y, al cerrar el ángulo central que abarca, se obtiene un
+  radián. Está pensada como actividad previa al tratamiento formal de la medida angular
+  en radianes. Funciona en el navegador, sin instalación.
+type: software
+authors:
+  - family-names: "Castillo Márquez"
+    given-names: "Dalia Imelda"
+    orcid: "https://orcid.org/0000-0002-5890-0437"
+    affiliation: "Universidad Autónoma de Nayarit, Unidad Académica de Ciencias Básicas e Ingenierías"
+version: "1.0.0"
+date-released: "2026-09-29"
+license: CC-BY-NC-SA-4.0
+url: "https://daliacastillo.github.io/construir-un-radian/"
+repository-code: "https://github.com/daliacastillo/construir-un-radian"
+keywords:
+  - radián
+  - ángulo central
+  - arco
+  - definición de radián
+  - aprendizaje intuitivo
+  - trigonometría
+  - material didáctico interactivo
+  - educación matemática
+  - recurso educativo abierto
+  - licenciatura en matemáticas
+  - HTML5
+  - SVG

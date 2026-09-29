@@ -1,0 +1,40 @@
+{
+  "title": "Construir un radián: actividad guiada para llegar intuitivamente a la definición de radián",
+  "description": "<p>Actividad guiada en cinco pasos que construye la definición de radián de forma intuitiva: primero se traza el radio de la circunferencia, después ese mismo radio se acuesta sobre la curva y, al cerrar el ángulo central que abarca, se obtiene un radián. Está pensada como actividad previa al tratamiento formal de la medida angular en radianes. Funciona en el navegador, sin instalación.</p><p><strong>Actividad en línea:</strong> <a href=\"https://daliacastillo.github.io/construir-un-radian/\">https://daliacastillo.github.io/construir-un-radian/</a></p><p><strong>Autora:</strong> Dra. Dalia Imelda Castillo Márquez · Universidad Autónoma de Nayarit, Unidad Académica de Ciencias Básicas e Ingenierías · ORCID <a href=\"https://orcid.org/0000-0002-5890-0437\">0000-0002-5890-0437</a></p><p><strong>Uso previsto:</strong> curso de Trigonometría de la Licenciatura en Matemáticas y actividades de divulgación de las matemáticas. Se distribuye como recurso educativo abierto.</p>",
+  "upload_type": "lesson",
+  "language": "spa",
+  "access_right": "open",
+  "license": "cc-by-nc-sa-4.0",
+  "version": "1.0.0",
+  "publication_date": "2026-09-29",
+  "creators": [
+    {
+      "name": "Castillo Márquez, Dalia Imelda",
+      "affiliation": "Universidad Autónoma de Nayarit, Unidad Académica de Ciencias Básicas e Ingenierías",
+      "orcid": "0000-0002-5890-0437"
+    }
+  ],
+  "keywords": [
+    "radián",
+    "ángulo central",
+    "arco",
+    "definición de radián",
+    "aprendizaje intuitivo",
+    "trigonometría",
+    "material didáctico interactivo",
+    "educación matemática",
+    "recurso educativo abierto",
+    "licenciatura en matemáticas",
+    "HTML5",
+    "SVG"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://daliacastillo.github.io/construir-un-radian/",
+      "relation": "isIdenticalTo",
+      "resource_type": "lesson",
+      "scheme": "url"
+    }
+  ],
+  "notes": "Material didáctico interactivo de acceso abierto. Desarrollado para la Licenciatura en Matemáticas de la Unidad Académica de Ciencias Básicas e Ingenierías, Universidad Autónoma de Nayarit."
+}
